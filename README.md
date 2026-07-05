@@ -305,6 +305,7 @@ GroupDNA/
 ├── response_analysis.py
 ├── archetype.py
 ├── final_report.py
+├── GroupDNADebayanBhowmik.ipynb
 ├── hostel_bois.txt
 ├── README.md
 └── requirements.txt
